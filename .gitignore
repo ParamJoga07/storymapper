@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+prd_be/data/
+.DS_Store
